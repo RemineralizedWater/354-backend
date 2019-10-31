@@ -8,3 +8,4 @@ class Config(object):
     SMTP_USERNAME = 'postmaster@sandboxf55aa089a27a4ed686e941fee0ddd632.mailgun.org' # Placeholder
     SMTP_PASSWORD = 'f85b0f946e0c2262f9f6be0cfa99bd9d-b892f62e-6a855db0' # Placeholder
     SCHEMA_FOLDER = 'schemas'
+    UPLOAD_FOLDER = 'uploads'
