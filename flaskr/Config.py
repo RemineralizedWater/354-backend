@@ -9,3 +9,4 @@ class Config(object):
     SMTP_LOGIN = 'apikey'
     SMTP_PASSWORD = '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' # Placeholder
     SCHEMA_FOLDER = 'schemas'
+    UPLOAD_FOLDER = 'uploads'
